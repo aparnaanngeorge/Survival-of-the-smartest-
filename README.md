@@ -1,0 +1,2 @@
+# Survival-of-the-smartest-
+The game is called 'Survival of the smartest?'. This game is an  adapted version of the paper-based game called 'Hangman'. The game is simple  and requires you to guess the letters of the word and reveal it, to  clear each level without dying. You will be given 8 chances to guess the word  right.For every wrong guess a part of body is drawn and upon losing all your  chances will be lost and you will see a man hanged, in other words it means  you lost your adventure. 
