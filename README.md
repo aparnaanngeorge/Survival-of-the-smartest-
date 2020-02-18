@@ -1,2 +1,11 @@
-# Survival-of-the-smartest-
-The game is called 'Survival of the smartest?'. This game is an  adapted version of the paper-based game called 'Hangman'. The game is simple  and requires you to guess the letters of the word and reveal it, to  clear each level without dying. You will be given 8 chances to guess the word  right.For every wrong guess a part of body is drawn and upon losing all your  chances will be lost and you will see a man hanged, in other words it means  you lost your adventure. 
+## Survival-of-the-smartest-
+
+Designed a text-based adventure game, utilizing the following Python essentials: 
+* Strings and String Manipulation
+* User-Defined Functions and Variables
+* User Input and Input Handling
+* Conditional and Nested Conditional Statements (if/elif/else)
+* Loops
+
+## Game Description
+'Survival of the smartest?' is the adapted version of the paper-based game 'Hangman'. The game is simple and requires you to guess the letters of the word and to clear each level without dying. There are 8 chances to guess the right word and for every wrong guess a part of your body is drawn and without the right guess you will lose. You will be hanged, in other words it means you lost your adventure. Keep playing & enjoy the game!!!
